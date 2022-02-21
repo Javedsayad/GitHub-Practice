@@ -1,9 +1,11 @@
 import "./App.css";
-import Testing from "./Components/KHWAJA/Testing";
+import Javed from "./Components/JAVED/Javed";
+import Testing from "./Components/JAVED/Testing";
 function App() {
   return (
     <div className="App">
       <Testing />
+      <Javed/>
     </div>
   );
 }
